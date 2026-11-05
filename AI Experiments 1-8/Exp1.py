@@ -4,9 +4,9 @@
 environment = {
     'A': 'Dirty',
     'B': 'Dirty'
-}
+}       
 
-# Initial state setup
+# Initial state setup.            
 location = 'A'
 path_cost = 0
 
